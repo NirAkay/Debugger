@@ -35,3 +35,7 @@ Linux system programming (ptrace, waitpid)
 ELF parsing and DWARF debug symbols (addr2line)
 
 Compiled with: -g -O0 -no-pie
+
+![image](https://github.com/user-attachments/assets/c74c7210-a8a5-4829-a622-8cd50bcda8e4)
+
+![image](https://github.com/user-attachments/assets/a51afdf5-b047-42c0-9106-01428386b4d8)
